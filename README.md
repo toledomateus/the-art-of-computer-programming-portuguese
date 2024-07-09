@@ -1,4 +1,4 @@
-# The Art of Computer Programming (Portuguese edition)
+# The Art of Computer Programming (Pt-Br edition)
 
 ![book-cover](/assets/images/taocp-pt-br.png)
 
