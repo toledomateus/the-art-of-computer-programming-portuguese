@@ -19,27 +19,26 @@ O repositório está dividido pelos livros (Volume 1, Volume 2, ..., Volume 4b) 
   ├── README.md
   ├── Volume_1
   │   ├── Capítulo 1
-  │   │   ├── Tradução.md
+  │   │   └── Tradução.md
   │   ├── Capítulo 2
-  │   │   ├── Tradução.md
+  │   │   └── Tradução.md
   │   ├── ...
   │   └── Capítulo N
-  │       ├── Tradução.md
+  │       └── Tradução.md
   │
   ├── ...
   │
   ├── Volume_M
   │   ├── Capítulo 1
-  │   │   ├── Tradução.md
-  │   │   ├── 
+  │   │   └── Tradução.md 
   │   ├── Capítulo 2
-  │   │   ├── Tradução.md
+  │   │   └── Tradução.md
   │   ├── ...
   │   └── Capítulo N
-  │       ├── Tradução.md
+  │       └── Tradução.md
   └── Guidelines
-      ├── CONTRIBUTION_GUIDELINES.md
       └── CONTRIBUTION_GUIDELINES
+          └── CONTRIBUTION_GUIDELINES.md
 ```
 
 
