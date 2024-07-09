@@ -34,9 +34,7 @@ git checkout -b feature-v1-c1.1-c1.4
 2. **Be Consistent:** Maintain consistency in terminology, style, and formatting throughout your translations.
 3. **Preserve Formatting:** Preserve the formatting of code snippets, equations, and other technical elements from the original text.
 4. **Translate Footnotes:** Translate any footnotes or annotations included in the text, providing context where necessary.
-5. **Use Markdown:** Write your translations using Markdown format, following the same structure as the original text. We will use [this](https://www.markdownguide.org/basic-syntax/ ) syntax standard.
-
-## Markdown Gui
+5. **Use Markdown:** Write your translations using Markdown format, following the same structure as the original text. We will use [this syntax standard](https://www.markdownguide.org/basic-syntax/).
 
 ## Submitting Contributions
 
