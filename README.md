@@ -1,5 +1,7 @@
 # The Art of Computer Programming (Portuguese edition)
 
+![book-cover](/assets/images/taocp-pt-br.png)
+
 Bem vindos a tradução livre sem fins lucrativos para o português brasileiro da obra **A Arte da Programação de Computadores** ou **The Art of Computer Programming** de Donald Knuth.
 
 - [live-book](https://mateuss-organization-4.gitbook.io/the-art-of-computer-proogramming-pt-br)
@@ -45,7 +47,7 @@ O repositório está dividido pelos livros (Volume 1, Volume 2, ..., Volume 4b) 
 
 ### Volume 1: Algoritmos Fundamentais
 #### Capitulo  1 - Conceitos básicos
-* [1.1 Algoritmo](Volume 1:  Algoritmos Fundamentais/Capítulo 1: Conceitos básicos/1.1 Algoritmo.md)
+* [1.1 Algoritmo](/Volume%201:%20%20Algoritmos%20Fundamentais/Capítulo%201:%20Conceitos%20básicos/1.1%20Algoritmo.md)
 
 ### Volume 2:  Algoritmos Seminuméricos
 
@@ -55,6 +57,9 @@ O repositório está dividido pelos livros (Volume 1, Volume 2, ..., Volume 4b) 
 
 ### Volume 4b: Algoritmos Combinatoriais Parte II
 
+
+
+## Como participar
 
 Caso você tenha interesse em participar deste projeto, envie um email para <contact@toledomateus.com>. Nosso guia sobre como participar do projeto está no diretório Guidelines. Está escrito em inglês porque alguns desenvolvedores que estão aprendendo nossa língua também podem contribuir para o projeto, o que facilitaria o processo de integração deles. Além disso, sua contribuição é tão importante para o projeto que ao final de cada capítulo que contribuir, seu nome será diretamente mencionado como colaborador. Isso é o mínimo que podemos fazer como forma de gratidão.
 
