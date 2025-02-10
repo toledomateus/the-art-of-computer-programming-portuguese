@@ -1,6 +1,6 @@
 # The Art of Computer Programming (Pt-Br edition)
 
-![book-cover](/assets/images/taocp-pt-br.png)
+![](/assets/images/taocp-pt-br.png)
 
 Bem vindos a tradução livre sem fins lucrativos para o português brasileiro da obra **A Arte da Programação de Computadores** ou **The Art of Computer Programming** de Donald Knuth.
 
