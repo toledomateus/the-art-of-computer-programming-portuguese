@@ -47,4 +47,3 @@ git checkout -b feature-v1-c1.1-c1.4
 
 1. **GitHub Issues:** Use GitHub issues to report bugs, suggest improvements, or ask questions related to the project.
 2. **Pull Request Discussions:** Engage in discussions within pull requests to provide feedback, ask questions, or suggest changes to translations.
-3. **Join the Discussion:** Join our community on [discord](www.discord.com) to connect with other contributors and discuss project-related matters.
