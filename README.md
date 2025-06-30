@@ -60,6 +60,6 @@ O repositório está dividido pelos livros (Volume 1, Volume 2, ..., Volume 4b) 
 
 ## Como participar
 
-Caso você tenha interesse em participar deste projeto, envie um email para <contact@toledomateus.com>. Nosso guia sobre como participar do projeto está no diretório Guidelines. Está escrito em inglês porque alguns desenvolvedores que estão aprendendo nossa língua também podem contribuir para o projeto, o que facilitaria o processo de integração deles. Além disso, sua contribuição é tão importante para o projeto que ao final de cada capítulo que contribuir, seu nome será diretamente mencionado como colaborador. Isso é o mínimo que podemos fazer como forma de gratidão.
+Caso você tenha interesse em participar deste projeto, envie um email para <pride.hairy3596@eagereverest.com> (email parece suspeito mas é email mask, não se preocupe (: ). Nosso guia sobre como participar do projeto está no diretório Guidelines. Está escrito em inglês porque alguns desenvolvedores que estão aprendendo nossa língua também podem contribuir para o projeto, o que facilitaria o processo de integração deles. Além disso, sua contribuição é tão importante para o projeto que ao final de cada capítulo que contribuir, seu nome será diretamente mencionado como colaborador. Isso é o mínimo que podemos fazer como forma de gratidão.
 
 Obrigado pelo seu interesse e aproveite a leitura!
